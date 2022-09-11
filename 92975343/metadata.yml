@@ -1,0 +1,12 @@
+---
+:id: 92975343
+:submitters:
+- :name: Junshang Jia
+  :email: juj22@pitt.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-10 21:07:26.257683000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-10 14:07:26.257683000 Z
+:status: processed
+:score: 80.0
